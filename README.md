@@ -46,6 +46,7 @@ Is a 120mm x120mm rectangle, centered on the origin. Has 4 symmetric holes in th
 
 
 ## Fork
+Sketch a circle 80mm in diameter, and extrude it 8mm thick.Then sketch the following on the cylinders face, and extrude it 75mm. Once you've extruded the fork's first arm, we need to soften it with 3 different filets.  Filets will round out edges for you.  The first one is a pair of 15mm filets, Next, a 1mm filet on the front and back edges. Tangent propagation will allow a single 4mm filet to run around the entire shape, creating a skirt for the part, and making the part more durable without adding too much material,
 
 ### Description
 
