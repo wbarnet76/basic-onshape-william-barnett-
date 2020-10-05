@@ -25,6 +25,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Image
 
 ### Reflection
+ So on the base i set the circal to close to the side so ill have to change that. but over all it was pritty simpile
 
 ---
 
