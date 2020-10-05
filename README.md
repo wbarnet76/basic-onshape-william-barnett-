@@ -25,7 +25,7 @@
 
 ### Image
 
-<img src="" alt="The Base" width="200">
+
 
 ### Reflection
 
