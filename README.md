@@ -23,6 +23,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 [Base](https://cvilleschools.onshape.com/documents/263a7d3c12e20a64c861ad0d/w/f3330506c03fb6d46c75be9d/e/f0f5e00f5d7392232cfd69e0).
 
 ### Image
+[folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
  So on the base i set the circal to close to the side so ill have to change that. but over all it was pritty simpile
@@ -37,6 +38,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Evidence
 
 ### Image
+[folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
 
@@ -50,6 +52,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Evidence
 
 ### Image
+[folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
 
@@ -63,6 +66,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Evidence
 
 ### Image
+[folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
 
@@ -76,6 +80,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Evidence
 
 ### Image
+[folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
 
@@ -89,6 +94,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Evidence
 
 ### Image
+[folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
 
