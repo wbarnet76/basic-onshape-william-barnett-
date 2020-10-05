@@ -20,7 +20,7 @@
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### Evidence
-Base((https://cvilleschools.onshape.com/documents/263a7d3c12e20a64c861ad0d/w/f3330506c03fb6d46c75be9d/e/f0f5e00f5d7392232cfd69e0).
+Base(https://cvilleschools.onshape.com/documents/263a7d3c12e20a64c861ad0d/w/f3330506c03fb6d46c75be9d/e/f0f5e00f5d7392232cfd69e0).
 
 ### Image
 
