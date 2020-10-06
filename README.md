@@ -57,6 +57,7 @@ Sketch a circle 80mm in diameter, and extrude it 8mm thick.Then sketch the follo
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
+Very fun learned how to use the mirror tool
 
 ---
 
@@ -72,6 +73,7 @@ Sketch a circle 80mm in diameter, and extrude it 8mm thick.Then sketch the follo
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
+No problems with this one just stuff i had alredy played around with.
 
 ---
 
