@@ -41,7 +41,8 @@ Is a 120mm x120mm rectangle, centered on the origin. Has 4 symmetric holes in th
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
-
+ evryting is in the right place. but for the linear pattern i had truble geting that right so i copyed and pasted the two of them back in at this pount i had no idea what mirror was and i dout i would be able to use it now anyway
+ 
 ---
 
 
