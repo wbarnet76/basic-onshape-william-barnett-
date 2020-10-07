@@ -11,7 +11,7 @@
 * [Mount](https://cvilleschools.onshape.com/documents/bcf4a404af6368a68cf8deba/w/217b14b137f1e1a5e872db32/e/23482756e66f850f2c0f214a)
 * [Fork](https://cvilleschools.onshape.com/documents/3a11d4125bb91d659e3310a6/w/3d87b4d2ceef566d4b93f03f/e/ebcede7005cc2743907eabfd)
 * [Tire](https://cvilleschools.onshape.com/documents/ebbecc781ab5f14091edffa1/w/608255b758de986fa9d6fb3e/e/a4b0c44a51276f489c2e6c87)
-* [Wheel]
+* [Wheel](https://cvilleschools.onshape.com/documents/4ed1fae1f116994a6de3a56e/w/dcd7cabc6e1f5c3904248bb4/e/fd9e5ae61d7f23cbc518be6f)
 * [AxleCollarBearings]
 
 ## Base
