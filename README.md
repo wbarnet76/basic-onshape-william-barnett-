@@ -57,7 +57,7 @@ Sketch a circle 80mm in diameter, and extrude it 8mm thick.Then sketch the follo
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
-Very fun learned how to use the mirror tool
+Very fun, learned how to use the mirror tool!
 
 ---
 
@@ -73,7 +73,7 @@ Very fun learned how to use the mirror tool
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
-No problems with this one just stuff i had alredy played around with.
+No problems with this one just stuff I had alredy played around with.
 
 ---
 
@@ -83,11 +83,12 @@ No problems with this one just stuff i had alredy played around with.
 ### Description
 
 ### Evidence
-
+[Wheel](https://cvilleschools.onshape.com/documents/4ed1fae1f116994a6de3a56e/w/dcd7cabc6e1f5c3904248bb4/e/fd9e5ae61d7f23cbc518be6f)
 ### Image
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
+I like the wheel the best so far because it gave me some trouble with the biging skech witch was fun to work around.
 
 ---
 
