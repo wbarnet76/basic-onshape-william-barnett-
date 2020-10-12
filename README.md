@@ -12,7 +12,7 @@
 * [Fork](https://cvilleschools.onshape.com/documents/3a11d4125bb91d659e3310a6/w/3d87b4d2ceef566d4b93f03f/e/ebcede7005cc2743907eabfd)
 * [Tire](https://cvilleschools.onshape.com/documents/ebbecc781ab5f14091edffa1/w/608255b758de986fa9d6fb3e/e/a4b0c44a51276f489c2e6c87)
 * [Wheel](https://cvilleschools.onshape.com/documents/4ed1fae1f116994a6de3a56e/w/dcd7cabc6e1f5c3904248bb4/e/fd9e5ae61d7f23cbc518be6f)
-* [AxleCollarBearings]
+* [AxleCollarBearings](https://cvilleschools.onshape.com/documents/8797c5a5c458a74477982d03/w/3ca953dbea7e5839f02f6746/e/3eed027c8107eb2d4cd87157)
 
 ## Base
 
@@ -98,10 +98,11 @@ I like the wheel the best so far because it gave me some trouble with the biging
 ### Description
 
 ### Evidence
-
+ [AxleCollarBearings](https://cvilleschools.onshape.com/documents/8797c5a5c458a74477982d03/w/3ca953dbea7e5839f02f6746/e/3eed027c8107eb2d4cd87157)
 ### Image
 [folder img](https://github.com/wbarnet76/basic-onshape-william-barnett-/tree/master/folder)
 
 ### Reflection
+fun and esey!
 
 ---
